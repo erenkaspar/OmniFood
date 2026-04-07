@@ -33,8 +33,8 @@ Omnifood is a tech-first company focused on consumer well-being through an AI-ce
 │   └── script.js    # Mobile menu logic and copyright year automation
 ├── img/             # Optimized images for meals, logos, and gallery
 └── index.html       # Semantic HTML structure
+```
 
 ---
 
 Developed by Eren Kaspar as part of a professional Frontend Developer portfolio.
-```
