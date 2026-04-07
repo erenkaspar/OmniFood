@@ -37,4 +37,6 @@ Omnifood is a tech-first company focused on consumer well-being through an AI-ce
 
 ---
 
+[Live](https://erenkaspar.github.io/OmniFood/)
+
 Developed by Eren Kaspar as part of a professional Frontend Developer portfolio.
